@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-art-of-war-random-quote-generator/static/css/main.1ba2e440.chunk.css",
-    "main.js": "/the-art-of-war-random-quote-generator/static/js/main.88acd939.chunk.js",
-    "main.js.map": "/the-art-of-war-random-quote-generator/static/js/main.88acd939.chunk.js.map",
+    "main.js": "/the-art-of-war-random-quote-generator/static/js/main.ff29edb2.chunk.js",
+    "main.js.map": "/the-art-of-war-random-quote-generator/static/js/main.ff29edb2.chunk.js.map",
     "runtime-main.js": "/the-art-of-war-random-quote-generator/static/js/runtime-main.eb3cc0f9.js",
     "runtime-main.js.map": "/the-art-of-war-random-quote-generator/static/js/runtime-main.eb3cc0f9.js.map",
     "static/js/2.d5e003c7.chunk.js": "/the-art-of-war-random-quote-generator/static/js/2.d5e003c7.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.eb3cc0f9.js",
     "static/js/2.d5e003c7.chunk.js",
     "static/css/main.1ba2e440.chunk.css",
-    "static/js/main.88acd939.chunk.js"
+    "static/js/main.ff29edb2.chunk.js"
   ]
 }
